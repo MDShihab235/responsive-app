@@ -204,6 +204,42 @@ const Product = () => {
           />
           <h3>House Maintainance & Item Repairing</h3>
         </div>
+        <div className="serviceProItem">
+          <span>20% Off</span>
+          <img
+            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            alt="img2"
+            className="serviceProImg"
+          />
+          <h3>House Maintainance & Item Repairing</h3>
+        </div>
+        <div className="serviceProItem">
+          <span>20% Off</span>
+          <img
+            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            alt="img2"
+            className="serviceProImg"
+          />
+          <h3>House Maintainance & Item Repairing</h3>
+        </div>
+        <div className="serviceProItem">
+          <span>20% Off</span>
+          <img
+            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            alt="img2"
+            className="serviceProImg"
+          />
+          <h3>House Maintainance & Item Repairing</h3>
+        </div>
+        <div className="serviceProItem">
+          <span>20% Off</span>
+          <img
+            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            alt="img2"
+            className="serviceProImg"
+          />
+          <h3>House Maintainance & Item Repairing</h3>
+        </div>
       </div>
     </div>
   );
