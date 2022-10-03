@@ -207,29 +207,29 @@ const Product = () => {
         <div className="serviceProItem">
           <span>20% Off</span>
           <img
-            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            src="https://www.couponraja.in/theroyale/wp-content/uploads/2014/03/online_grocery_shopping-770x586.jpg"
             alt="img2"
             className="serviceProImg"
           />
-          <h3>House Maintainance & Item Repairing</h3>
+          <h3>Daily Needs</h3>
         </div>
         <div className="serviceProItem">
           <span>20% Off</span>
           <img
-            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            src="https://img.freepik.com/free-photo/book-with-green-board-background_1150-3836.jpg?w=2000"
             alt="img2"
             className="serviceProImg"
           />
-          <h3>House Maintainance & Item Repairing</h3>
+          <h3>Education</h3>
         </div>
         <div className="serviceProItem">
           <span>20% Off</span>
           <img
-            src="https://futureentech.com/wp-content/uploads/2019/08/house-maintenance-tips.jpg"
+            src="https://www.hsimagazine.com/wp-content/uploads/2020/01/iStock-1028568006.jpg"
             alt="img2"
             className="serviceProImg"
           />
-          <h3>House Maintainance & Item Repairing</h3>
+          <h3>Construction</h3>
         </div>
         <div className="serviceProItem">
           <span>20% Off</span>
